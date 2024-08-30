@@ -1,14 +1,14 @@
-2024-08-27 (World)
--Revamped avatars to load from GitHub
--Added DJ Mayu to the world
--Added text next to mirror button
+2024-08-29 (World)
+-Added update log to world
+-Added instructions to fix GitHub connection
+-Fixed Retry button not working
 
 2024-08-28 (DJ Mayu)
 -Eye tracking was rebuilt and fixed
 -Fixed bone parenting on some pants
 -Fixed clipping on suit pants
 
-2024-08-29 (World)
--Added update log to world
--Added instructions to fix GitHub connection
--Fixed Retry button not working
+2024-08-27 (World)
+-Revamped avatars to load from GitHub
+-Added DJ Mayu to the world
+-Added text next to mirror button
