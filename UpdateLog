@@ -1,3 +1,8 @@
+2024-09-01 (DJ Mayu)
+-Fixed Oversized shirt blendshape issues
+-Added physbones to strap on TechPants
+-Lowered threshold for meow when tail pulled
+
 2024-08-29 (World)
 -Added update log to world
 -Added instructions to fix GitHub connection
